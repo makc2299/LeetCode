@@ -9,7 +9,7 @@
 |   1     |    1    |  0   | 0   |
 
 
-| Question | Solution | Difficulty |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
-| [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/TwoSum1.java) | Easy |
-| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/linked_list/AddTwoNumbers.java) | Medium |
+| № | Question | Solution | Difficulty |
+|:----------:|------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/TwoSum1.java) | Easy |
+| 2 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/linked_list/AddTwoNumbers.java) | Medium |
