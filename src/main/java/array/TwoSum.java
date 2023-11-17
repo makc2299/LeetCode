@@ -29,7 +29,7 @@
 */
 
 package main.java.array;
-public class TwoSum1 {
+public class TwoSum {
 
     public int[] twoSum(int[] nums, int target) {
         int num1, num2;
