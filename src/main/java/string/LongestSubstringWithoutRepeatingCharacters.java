@@ -24,7 +24,7 @@
  s consists of English letters, digits, symbols and spaces.
  */
 
-package main.java;
+package main.java.string;
 
 public class LongestSubstringWithoutRepeatingCharacters {
     public int lengthOfLongestSubstring(String s) {
