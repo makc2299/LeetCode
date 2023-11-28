@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 8
+# Total: 9
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   1     |    6    |  1   | 0   |
+|   2     |    6    |  1   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -19,3 +19,4 @@
 | 6 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/ZigzagConversion.java) | Medium |
 | 7 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/ReverseInteger.java) | Medium |
 | 8 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/string/StringToIntegerAtoi.java) | Medium |
+| 9 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/PalindromeNumber.java) | Easy |
