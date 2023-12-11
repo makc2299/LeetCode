@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 13
+# Total: 14
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   3     |    8    |  2   | 0   |
+|   4     |    8    |  2   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -24,5 +24,6 @@
 | 11 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/ContainerWithMostWater.java) | Medium |
 | 12 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/IntegerToRoman.java) | Medium |
 | 13 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/RomanToInteger.java) | Easy |
+| 14 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/string/LongestCommonPrefix.java) | Easy |
 
 
