@@ -25,7 +25,7 @@
  Both list1 and list2 are sorted in non-decreasing order.
  */
 
-package main.java.array;
+package main.java.linked_list;
 
 import main.java.linked_list.ListNode;
 
