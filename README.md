@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 24
+# Total: 25
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   6     |    15    |  3   | 0   |
+|   6     |    15    |  4   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -35,6 +35,6 @@
 | 22 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/GenerateParentheses.java) | Medium |
 | 23 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/linked_list/MergeKSortedLists.java) | Hard |
 | 24 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/linked_list/SwapNodesInPairs.java) | Medium |
-
+| 25 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/linked_list/ReverseNodesInKGroup.java) | Hard |
 
 
