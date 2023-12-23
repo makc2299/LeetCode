@@ -47,7 +47,6 @@ public class ReverseNodesInKGroup {
                     i--;
                 }
             }
-
         }
 
         if (i != 0) {
@@ -58,6 +57,7 @@ public class ReverseNodesInKGroup {
 
         return res.next;
     }
+
     public ListNode reverseKGroup(ListNode head, int k) {
         ListNode beforeHead = new ListNode();
         ListNode pointer = beforeHead, tmp;
