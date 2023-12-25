@@ -19,7 +19,7 @@
  haystack and needle consist of only lowercase English characters.
  */
 
-package main.java;
+package main.java.string;
 
 public class FindTheIndexOfTheFirstOccurrenceInAString {
 
