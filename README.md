@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 29
+# Total: 30
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   9     |    16    |  4   | 0   |
+|   9     |    16    |  5   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -40,4 +40,6 @@
 | 27 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/RemoveElement.java) | Easy |
 | 28 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/string/FindTheIndexOfTheFirstOccurrenceInAString.java) | Easy |
 | 29 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/DivideTwoIntegers.java) | Medium |
+| 30 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/SubstringWithConcatenationOfAllWords.java) | Hard |
+
 
