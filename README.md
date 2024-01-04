@@ -11,9 +11,9 @@
 
 | № | Question | Solution | Difficulty |
 |:----------:|------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/TwoSum1.java) | Easy |
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/TwoSum.java) | Easy |
 | 2 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/linked_list/AddTwoNumbers.java) | Medium |
-| 3 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/LongestSubstringWithoutRepeatingCharacters.java) | Medium |
+| 3 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/string/LongestSubstringWithoutRepeatingCharacters.java) | Medium |
 | 4 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/MedianOfTwoSortedArrays.java) | Hard |
 | 5 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/string/LongestPalindromicSubstring.java) | Medium |
 | 6 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/ZigzagConversion.java) | Medium |
@@ -31,7 +31,7 @@
 | 18 | [18. 4Sum](https://leetcode.com/problems/4sum/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/FourSum.java) | Medium |
 | 19 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/linked_list/RemoveNthNodeFromEndOfList.java) | Medium |
 | 20 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/ValidParentheses.java) | Easy |
-| 21 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/MergeTwoSortedLists.java) | Easy |
+| 21 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/linked_list/MergeTwoSortedLists.java) | Easy |
 | 22 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/GenerateParentheses.java) | Medium |
 | 23 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/linked_list/MergeKSortedLists.java) | Hard |
 | 24 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/linked_list/SwapNodesInPairs.java) | Medium |
