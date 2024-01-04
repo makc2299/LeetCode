@@ -29,7 +29,7 @@
  -104 <= target <= 104
  */
 
-package main.java;
+package main.java.array;
 
 public class SearchInRotatedSortedArray {
 
