@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 31
+# Total: 32
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   9     |    17    |  5   | 0   |
+|   9     |    17    |  6   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -42,6 +42,5 @@
 | 29 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/DivideTwoIntegers.java) | Medium |
 | 30 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/SubstringWithConcatenationOfAllWords.java) | Hard |
 | 31 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/NextPermutation.java) | Medium |
-
-
+| 32 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/LongestValidParentheses.java) | Hard |
 
