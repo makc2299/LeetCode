@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 34
+# Total: 35
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   9     |    19    |  6   | 0   |
+|   10     |    19    |  6   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -45,5 +45,7 @@
 | 32 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/LongestValidParentheses.java) | Hard |
 | 33 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/SearchInRotatedSortedArray.java) | Medium |
 | 34 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/FindFirstAndLastPositionOfElementInSortedArray.java) | Medium |
+| 35 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/SearchInsertPosition.java) | Easy |
+
 
 
