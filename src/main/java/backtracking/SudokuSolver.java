@@ -24,7 +24,7 @@
  It is guaranteed that the input board has only one solution.
  */
 
-package main.java;
+package main.java.backtracking;
 
 public class SudokuSolver {
 
