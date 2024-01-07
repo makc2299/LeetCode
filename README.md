@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 36
+# Total: 37
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   10     |    20    |  6   | 0   |
+|   10     |    20    |  7   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -47,7 +47,6 @@
 | 34 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/FindFirstAndLastPositionOfElementInSortedArray.java) | Medium |
 | 35 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/SearchInsertPosition.java) | Easy |
 | 36 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/ValidSudoku.java) | Medium |
-
-
+| 37 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/backtracking/SudokuSolver.java) | Hard |
 
 
