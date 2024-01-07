@@ -52,6 +52,51 @@ import java.util.HashSet;
 
 public class ValidSudoku {
 
+    public boolean isValidSudoku1(char[][] board) {
+        for (int i = 0; i < 9; i++) {
+            for (int j = 0; j < 9; j++) {
+                if (board[i][j] != '.') {
+                    char tmp = board[i][j];
+                    board[i][j] = '.';
+                    if (!isValid(board, i, j, tmp)) {
+                        return false;
+                    }
+                    board[i][j] = tmp;
+                }
+            }
+        }
+        return true;
+    }
+
+    private boolean isValid(char[][] board, int row, int col, char num) {
+        // row
+        for (int i = 0; i < 9; i++) {
+            if (board[i][col] == num) {
+                return false;
+            }
+        }
+
+        // col
+        for (int i = 0; i < 9; i++) {
+            if (board[row][i] == num) {
+                return false;
+            }
+        }
+
+        // box
+        int startRow = row - row % 3;
+        int startCol = col - col % 3;
+        for (int i = startRow; i < startRow + 3; i++) {
+            for (int j = startCol; j < startCol + 3; j++) {
+                if (board[i][j] == num) {
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
+
     public boolean isValidSudoku(char[][] board) {
         HashSet<Character> rowCol = new HashSet<>();
         ArrayList<HashSet<Character>> boxes = new ArrayList<>();
@@ -94,5 +139,5 @@ public class ValidSudoku {
         }
         return true;
     }
-    
+
 }
