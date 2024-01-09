@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 38
+# Total: 39
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   10     |    21    |  7   | 0   |
+|   10     |    22    |  7   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -49,4 +49,5 @@
 | 36 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/ValidSudoku.java) | Medium |
 | 37 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/backtracking/SudokuSolver.java) | Hard |
 | 38 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/CountAndSay.java) | Medium |
+| 39 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/CombinationSum.java) | Medium |
 
