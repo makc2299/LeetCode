@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 40
+# Total: 41
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   10     |    23    |  7   | 0   |
+|   10     |    23    |  8   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -51,4 +51,5 @@
 | 38 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/CountAndSay.java) | Medium |
 | 39 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/CombinationSum.java) | Medium |
 | 40 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/CombinationSumII.java) | Medium |
+| 41 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/FirstMissingPositive.java) | Hard |
 
