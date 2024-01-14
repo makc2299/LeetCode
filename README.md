@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 43
+# Total: 44
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   10     |    24    |  9   | 0   |
+|   10     |    24    |  10   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -54,3 +54,5 @@
 | 41 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/FirstMissingPositive.java) | Hard |
 | 42 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/TrappingRainWater.java) | Hard |
 | 43 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/MultiplyStrings.java) | Medium |
+| 44 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/dynamic_programming/WildcardMatching.java) | Hard |
+
