@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 46
+# Total: 47
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   10     |    26    |  10   | 0   |
+|   10     |    27    |  10   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -57,4 +57,4 @@
 | 44 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/dynamic_programming/WildcardMatching.java) | Hard |
 | 45 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/JumpGameII.java) | Medium |
 | 46 | [46. Permutations](https://leetcode.com/problems/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/Permutations.java) | Medium |
-
+| 47 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/PermutationsII.java) | Medium |
