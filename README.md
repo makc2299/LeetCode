@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 50
+# Total: 51
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   10     |    30    |  10   | 0   |
+|   10     |    30    |  11   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -61,3 +61,4 @@
 | 48 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/RotateImage.java) | Medium |
 | 49 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/GroupAnagrams.java) | Medium |
 | 50 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/PowXN.java) | Medium |
+| 51 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/NQueens.java) | Hard |
