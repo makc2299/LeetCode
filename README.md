@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 55
+# Total: 56
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   10     |    33    |  12   | 0   |
+|   10     |    34    |  12   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -66,3 +66,5 @@
 | 53 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/dynamic_programming/MaximumSubarray.java) | Medium |
 | 54 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/SpiralMatrix.java) | Medium |
 | 55 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/JumpGame.java) | Medium |
+| 56 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/MergeIntervals.java) | Medium |
+
