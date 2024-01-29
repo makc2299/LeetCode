@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 62
+# Total: 63
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   11     |    38    |  13   | 0   |
+|   11     |    39    |  13   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -73,3 +73,4 @@
 | 60 | [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/PermutationSequence.java) | Hard |
 | 61 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/linked_list/RotateList.java) | Medium |
 | 62 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/dynamic_programming/UniquePaths.java) | Medium |
+| 63 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/dynamic_programming/UniquePathsII.java) | Medium |
