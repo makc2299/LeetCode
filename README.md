@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 59
+# Total: 60
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   11     |    36    |  12   | 0   |
+|   11     |    36    |  13   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -70,4 +70,5 @@
 | 57 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/InsertInterval.java) | Medium |
 | 58 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/string/LengthOfLastWord.java) | Easy |
 | 59 | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/SpiralMatrixII.java) | Medium |
+| 60 | [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/PermutationSequence.java) | Hard |
 
