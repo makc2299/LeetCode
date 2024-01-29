@@ -21,8 +21,6 @@ public class SpiralMatrixII {
 
     public int[][] generateMatrix(int n) {
         int[][] matrix = new int[n][n];
-
-
         int capacity = matrix.length * matrix[0].length;
         int i = 0, j = 0, fullSpin = 0, filler = 1;
 
