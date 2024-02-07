@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 68
+# Total: 69
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   13     |    40    |  15   | 0   |
+|   14     |    40    |  15   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -79,3 +79,4 @@
 | 66 | [66. Plus One](https://leetcode.com/problems/plus-one/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/PlusOne.java) | Easy |
 | 67 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/AddBinary.java) | Easy |
 | 68 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/TextJustification.java) | Hard |
+| 69 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/SqrtX.java) | Easy |
