@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 70
+# Total: 71
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   15     |    40    |  15   | 0   |
+|   15     |    41    |  15   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -81,3 +81,4 @@
 | 68 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/TextJustification.java) | Hard |
 | 69 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/SqrtX.java) | Easy |
 | 70 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/dynamic_programming/ClimbingStairs.java) | Easy |
+| 71 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/string/SimplifyPath.java) | Medium |
