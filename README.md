@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 71
+# Total: 72
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   15     |    41    |  15   | 0   |
+|   15     |    42    |  15   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -82,3 +82,4 @@
 | 69 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/math/SqrtX.java) | Easy |
 | 70 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/dynamic_programming/ClimbingStairs.java) | Easy |
 | 71 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/string/SimplifyPath.java) | Medium |
+| 72 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/dynamic_programming/EditDistance.java) | Medium |
