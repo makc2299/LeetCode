@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 73
+# Total: 74
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   15     |    43    |  15   | 0   |
+|   15     |    44    |  15   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -84,3 +84,4 @@
 | 71 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/string/SimplifyPath.java) | Medium |
 | 72 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/dynamic_programming/EditDistance.java) | Medium |
 | 73 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/SetMatrixZeroes.java) | Medium |
+| 74 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/SearchA2DMatrix.java) | Medium |
