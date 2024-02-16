@@ -40,37 +40,26 @@ import java.util.*;
 public class MinimumWindowSubstring {
 
     int lS = 0, rS = Integer.MAX_VALUE;
-    int[] hash = new int[58];
-    int[] stable = new int[58];
-    List<Integer> idxs = new ArrayList<>();
+    int[] hash = new int[128];
+
     public String minWindow(String s, String t) {
         for (int i = 0; i < t.length(); i++) {
-            int idx = t.charAt(i) - 'A';
-            hash[idx] += 1;
-            stable[idx] += 1;
+            hash[t.charAt(i)] += 1;
         }
 
-        for (int i = 0; i < stable.length; i++) {
-            if (stable[i] != 0) {
-                idxs.add(i);
-            }
-        }
-
+        int count = t.length();
         for (int r = 0, l = 0; r < s.length(); r++) {
-            if (stable[s.charAt(r) - 'A'] != 0) {
-                hash[s.charAt(r) - 'A'] -= 1;
+            if (hash[s.charAt(r)]-- > 0) {
+                count--;
 
-                while (isDesolated()) {
+                while (count == 0) {
                     if (r - l < rS - lS) {
                         rS = r;
                         lS = l;
                     }
 
-                    if (stable[s.charAt(l) - 'A'] != 0) {
-                        hash[s.charAt(l++) - 'A'] += 1;
-                    }
-                    while (l < s.length() && stable[s.charAt(l) - 'A'] == 0) {
-                        l++;
+                    if (hash[s.charAt(l++)]++ == 0) {
+                        count++;
                     }
                 }
             }
@@ -79,14 +68,6 @@ public class MinimumWindowSubstring {
         return rS > s.length() ? "" : s.substring(lS, rS + 1);
     }
 
-    public boolean isDesolated() {
-        for (int idx : idxs) {
-            if (hash[idx] > 0) {
-                return false;
-            }
-        }
-        return true;
-    }
 }
 
 
