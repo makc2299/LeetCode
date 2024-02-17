@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 78
+# Total: 79
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   15     |    47    |  16   | 0   |
+|   15     |    48    |  16   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -89,3 +89,4 @@
 | 76 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/string/MinimumWindowSubstring.java) | Hard |
 | 77 | [77. Combinations](https://leetcode.com/problems/combinations/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/backtracking/Combinations.java) | Medium |
 | 78 | [78. Subsets](https://leetcode.com/problems/subsets/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/bit_manipulation/Subsets.java) | Medium |
+| 79 | [79. Word Search](https://leetcode.com/problems/word-search/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/backtracking/WordSearch.java) | Medium |
