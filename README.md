@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 79
+# Total: 80
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   15     |    48    |  16   | 0   |
+|   15     |    49    |  16   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -90,3 +90,4 @@
 | 77 | [77. Combinations](https://leetcode.com/problems/combinations/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/backtracking/Combinations.java) | Medium |
 | 78 | [78. Subsets](https://leetcode.com/problems/subsets/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/bit_manipulation/Subsets.java) | Medium |
 | 79 | [79. Word Search](https://leetcode.com/problems/word-search/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/backtracking/WordSearch.java) | Medium |
+| 80 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/two_pointers/RemoveDuplicatesFromSortedArrayII.java) | Medium |
