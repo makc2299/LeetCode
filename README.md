@@ -2,11 +2,11 @@
 ![1_gBkMCGTAdSk4tu17SCa7RQ](https://github.com/makc2299/LeetCode/assets/44743531/a6e7f076-c6b1-4e42-ada6-4676c0db9be2)
 
 
-# Total: 81
+# Total: 82
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
-|   15     |    50    |  16   | 0   |
+|   15     |    51    |  16   | 0   |
 
 
 | № | Question | Solution | Difficulty |
@@ -92,3 +92,4 @@
 | 79 | [79. Word Search](https://leetcode.com/problems/word-search/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/backtracking/WordSearch.java) | Medium |
 | 80 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/two_pointers/RemoveDuplicatesFromSortedArrayII.java) | Medium |
 | 81 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/array/SearchInRotatedSortedArrayII.java) | Medium |
+| 82 | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](https://github.com/makc2299/LeetCode/blob/master/src/main/java/linked_list/RemoveDuplicatesFromSortedListII.java) | Medium |
